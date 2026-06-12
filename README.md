@@ -34,3 +34,11 @@
 最终得分: 0.12831
 
 接下来尝试新的特征工程, 最后尝试模型集成.
+
+6.13 
+尝试了很多特征工程但是最终似乎有些过拟合了.
+
+<img width="410" height="538" alt="image" src="https://github.com/user-attachments/assets/15376385-1d30-48ab-80a9-9a8aa001e15d" />
+
+
+
