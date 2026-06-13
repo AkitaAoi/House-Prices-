@@ -42,4 +42,12 @@
 <img width="410" height="538" alt="image" src="https://github.com/user-attachments/assets/15376385-1d30-48ab-80a9-9a8aa001e15d" />
 
 
+6.13 v2(所有特征 + 线性集成)
 
+尝试了α = np.raange(0, 1, 0.05)的所有岭回归与LightGBM的线性组合, 其中α = 0.4在验证集上的效果最好。
+
+α = 0.3在测试集上的效果最好.
+
+最终得分: 0.12798
+
+提升不大.
